@@ -1,4 +1,6 @@
 # GD-V2ray-shell-Apt
+## 开发者：xian xichun
+
 GD-V2ray-shell-Apt，通过shell脚本部署VPN节点
 使用时，需要将三个脚本移动到/root文件夹下，将v2ray.sh赋予x可执行权限，然后执行v2ray.sh文件即可部署
 
