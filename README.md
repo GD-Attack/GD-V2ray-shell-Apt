@@ -7,7 +7,7 @@ GD-V2ray-shell-Apt，通过shell脚本部署VPN节点
 
 # Xray & Clash 一键自动化部署脚本
 
-这是一个用于在 Linux (CentOS / Rocky Linux / RHEL 系列) 上一键部署 Xray (VLESS-REALITY / VMess) 服务并自动生成 Clash 订阅配置文件的 Bash 脚本套件。
+这是一个用于在 Linux (kali / Ubuntu Linux / Debian 系列) 上一键部署 Xray (VLESS-REALITY / VMess) 服务并自动生成 Clash 订阅配置文件的 Bash 脚本套件。
 
 ## 🌟 项目特点
 
@@ -29,10 +29,10 @@ GD-V2ray-shell-Apt，通过shell脚本部署VPN节点
 ---
 🐧 适用环境
 
-* **默认支持：** CentOS / Rocky Linux / RHEL 系列
+* **默认支持：** kali / Ubuntu Linux / Debian 系列
 
 * **可扩展支持：**
-  需要修改RHEL系列的shell脚本中特定的命令/语法为Debian系列所支持的命令/语法，即可完美运行在 Debian / Ubuntu 系列上。您可以手动修改，也可以选择信任我们，我们已经将适配于Debian系列的操作系统所需要的功能发布到了GitHub仓库中。已经开源，目前已经对版本进行了更新，在release中下载最新latest版本
+  需要修改Debian系列的shell脚本中特定的命令/语法为RHEL系列所支持的命令/语法，即可完美运行在 RHEL / Centos 系列上。您可以手动修改，也可以选择信任我们，我们已经将适配于RHEL系列的操作系统所需要的功能发布到了GitHub仓库中。已经开源，目前已经对版本进行了更新，在release中下载最新latest版本
 
   仓库地址：
 
