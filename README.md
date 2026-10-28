@@ -27,6 +27,14 @@ GD-V2ray-shell-Apt，通过shell脚本部署VPN节点
 - `v2ray_clash.sh` ：**Clash 客户端配置生成脚本**，生成 `/var/www/html/clash.yaml`。
 
 ---
+🐧 适用环境
+
+* **默认支持：** CentOS / Rocky Linux / RHEL 系列
+
+* **可扩展支持：**
+  需要修改RHEL系列的shell脚本中特定的命令/语法为Debian系列所支持的命令/语法，即可完美运行在 Debian / Ubuntu 系列上。您可以手动修改，也可以选择信任我们，我们已经将适配于Debian系列的操作系统所需要的功能发布到了GitHub仓库中。已经开源，目前已经对版本进行了更新，在release中下载最新latest版本
+
+  仓库地址：
 
 ## 🚀 快速使用指南
 
